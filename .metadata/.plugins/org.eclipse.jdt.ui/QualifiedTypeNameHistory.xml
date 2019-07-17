@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="entities.Autor"/>
+<fullyQualifiedTypeName name="entities.MiniLivro"/>
+<fullyQualifiedTypeName name="entities.services.Produto"/>
+<fullyQualifiedTypeName name="entities.Conta"/>
+<fullyQualifiedTypeName name="entities.Data"/>
+<fullyQualifiedTypeName name="entities.Gerente"/>
+<fullyQualifiedTypeName name="entities.services.Autenticavel"/>
+<fullyQualifiedTypeName name="entities.ContaCorrente"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="javax.management.RuntimeErrorException"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.luv2code.springdemo.BaseballCoach"/>
+</qualifiedTypeNameHistroy>
