@@ -14,4 +14,7 @@
 <fullyQualifiedTypeName name="com.luv2code.springdemo.BaseballCoach"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.NotNull"/>
+<fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+<fullyQualifiedTypeName name="org.springframework.beans.propertyeditors.StringTrimmerEditor"/>
 </qualifiedTypeNameHistroy>
