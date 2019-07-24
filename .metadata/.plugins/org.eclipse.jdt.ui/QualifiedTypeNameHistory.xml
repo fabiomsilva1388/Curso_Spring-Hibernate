@@ -9,7 +9,6 @@
 <fullyQualifiedTypeName name="entities.services.Autenticavel"/>
 <fullyQualifiedTypeName name="entities.ContaCorrente"/>
 <fullyQualifiedTypeName name="javax.management.RuntimeErrorException"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.luv2code.springdemo.BaseballCoach"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
@@ -23,4 +22,5 @@
 <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
 <fullyQualifiedTypeName name="org.hibernate.Session"/>
 <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+<fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
